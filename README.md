@@ -10,7 +10,7 @@ software development, and exploring the endless possibilities of programming. My
 3D printing, and diving into new languages, frameworks, and computational concepts.</strong> </p></div>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-
+<p>
 <img src="icons/java_logo.svg" width="100px" height="70px" alt="java_logo">
 <img src="icons/spring_logo.svg" width="100px" height="70px" alt="spring_logo">
 <img src="icons/Cpp_logo.svg" width="100px" height="70px" style="background-color:white; border-radius:0.4em" alt="cpp_logo">
@@ -37,7 +37,7 @@ software development, and exploring the endless possibilities of programming. My
 
 <img src="icons/freecad_logo.svg"  width="100px" height="70px" style="background-color:white; border-radius:0.4em" alt="freecad_logo">
 <img src="icons/neovim_logo.svg"  width="100px" height="70px" alt="neovim_logo">
-
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainkernel&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
