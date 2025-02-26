@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?text=Welcome to my cave🕹️&animation=fadeIn&type=waving&color=gradient&height=100" alt="welcome to my cave"/>
-
+![Image](https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20cave🕹️&animation=fadeIn&type=waving&color=gradient&height=100)
 
 <div>
 <p style="font-size:1.3em">I’m a <strong>tech enthusiast and lifelong learner</strong> deeply passionate about computer science, modern
