@@ -1,7 +1,4 @@
-<p>
-  <img src="https://capsule-render.vercel.app/api?text=Welcome to my
-cave🕹️&animation=fadeIn&type=waving&color=gradient&height=100" alt="welcome to my cave"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?text=Welcome to my cave🕹️&animation=fadeIn&type=waving&color=gradient&height=100" alt="welcome to my cave"/>
 
 
 <div>
