@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:21CBF3&height=200&section=header&text=Welcome%20to%20my%20cave!&fontSize=40&fontAlignY=40&desc=Tech%20enthusiast&descAlignY=60&animation=fadeIn" width="100%" />
 
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=4000&pause=500&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer;Hardware+Engineer;AI+Researcher;Tech+Enthusiast" />
+<div align="center" style="margin-top: 20px; background-color: #fffff">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=4000&pause=200&color=2196F3&center=true&vCenter=true&width=200&lines=Software+Engineer;Hardware+Engineer;AI+Researcher;Tech+Enthusiast" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://media.giphy.com/media/kg4gaF4zJr57JfjgkO/giphy.gif?cid=ecf05e47t36yo73bj4z0gyzek27rapdu97znqx1vp61kjzxm&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJuaDJqbWRnNnQ0YjltMmkyaTh4cmoxbjMyNm02N3l5YXRmeGo0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPpkvgTIJ817dfQOXI/giphy.gif"/>
 </div>
 
 ## <p align="center"> 🌟 About Me </p>
