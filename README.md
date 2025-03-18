@@ -1,41 +1,48 @@
-![Image](https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20cave🕹️&animation=fadeIn&type=waving&color=gradient&height=200)
 
-<div>
-<p style="font-size:1.3em">I’m a <strong>tech enthusiast and lifelong learner</strong> deeply passionate about computer science, modern
-software development, and exploring the endless possibilities of programming. My curiosity spans <strong>coding, electronics,
-3D printing, and diving into new languages, frameworks, and computational concepts.</strong> </p></div>
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p>
-<img src="icons/java_logo.svg" width="100px" height="70px" alt="java_logo">
-<img src="icons/spring_logo.svg" width="100px" height="70px" alt="spring_logo">
-<img src="icons/Cpp_logo.svg" width="100px" height="70px" style="background-color:white; border-radius:0.4em" alt="cpp_logo">
-<img src="icons/javascript_logo.svg" width="100px" height="70px" style="background-color:white; border-radius:0.4em" alt="javascript_logo">
-<img src="icons/html_logo.svg" width="100px" height="70px" alt="html_logo">
-
-<img src="icons/CSS_logo.svg" width="100px" height="70px"  style="border-radius:0.4em; background-color:#1073bb" alt="CSS_logo">
-<img src="icons/tailwind_logo.svg" width="100px" height="70px" alt="tailwind_logo">
-<img src="icons/bootstrap_logo.svg" width="100px" height="70px" alt="bootstrap_logo">
-
-<img src="icons/react_logo.svg"  width="100px" height="70px" alt="react_logo">
-<img src="icons/postgresql_logo.svg"  width="100px" height="70px" alt="postgresql_logo">
-<img src="icons/mysql_logo.svg"  width="100px" height="70px" style="background-color:white; border-radius:0.4em" alt="mysql_logo">
-
-<img src="icons/archlinux_logo.svg"  width="100px" height="70px" alt="arch_logo">
-<img src="icons/debian_logo.svg"  width="100px" height="70px" style="background-color:white; border-radius:0.4em" alt="debian_logo">
-<img src="icons/Windows_logo.svg"  width="100px" height="70px" style="background-color:white; border-radius:0.4em" alt="windows_logo">
-<img src="icons/vagrant_logo.svg"  width="100px" height="70px" alt="vagrant_logo">
-
-<img src="icons/virtualbox_logo.svg"  width="100px" height="70px" style="background-color:white; border-radius:0.4em" alt="virtualbox_logo">
-<img src="icons/docker_logo.svg"  width="100px" height="70px" style="background-color:white; border-radius:0.4em" alt="docker_logo">
-<img src="icons/AWS_logo.svg"  width="100px" height="70px" alt="aws_logo">
-<img src="icons/visualstudio_logo.svg"  width="100px" height="70px" alt="VSCode_logo">
-
-<img src="icons/freecad_logo.svg"  width="100px" height="70px" style="background-color:white; border-radius:0.4em" alt="freecad_logo">
-<img src="icons/neovim_logo.svg"  width="100px" height="70px" alt="neovim_logo">
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainkernel&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:21CBF3&height=200&section=header&text=Welcome%20to%20my%20cave!&fontSize=40&fontAlignY=40&desc=Tech%20enthusiast&descAlignY=60&animation=fadeIn" width="100%" />
 
 
+<div align="center" style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=4000&pause=500&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer;Hardware+Engineer;AI+Researcher;Tech+Enthusiast" />
+</div>
 
+<div align="center" style="margin-top: 20px;">
+  <img src="https://media.giphy.com/media/kg4gaF4zJr57JfjgkO/giphy.gif?cid=ecf05e47t36yo73bj4z0gyzek27rapdu97znqx1vp61kjzxm&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300" />
+</div>
+
+## <p align="center"> 🌟 About Me </p>
+
+<div style="background-color: #fffff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<p> I’m a tech enthusiast and lifelong learner deeply passionate about computer science, modern software development, and exploring the endless possibilities of programming. My curiosity spans coding, electronics, 3D printing, and diving into new languages, frameworks, and computational concepts.</p>
+  <ul>
+    <li>🔭 I’m currently working on CRM solution </li>
+    <li>🌱 I’m currently exploring math </li>
+  </ul>
+</div>
+
+## <p align="center"> 🛠️ Tech Stack </p>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,react,nodejs,python,html,htmx,css,cmake,rabbitmq,aws,terraform,docker,kubernetes,redis,sqlite,mongodb,postgres,elasticsearch,graphql,gradle,npm,maven,git,linux,arch,debian,windows,bash,bootstrap,arduino,autocad" />
+</div>
+
+## <p align="center"> 📈 GitHub Stats </p>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MainKernel&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&bg_color=0D1117&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainKernel&layout=compact&langs_count=8&theme=material-palenight&bg_color=0D1117&hide_border=true" height="180em" />
+</div>
+
+## <p align="center" style="margin-bottom: 40px;"> 🌐 Connect with Me </p>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="mailto:ivanmukanovocsp@gmail.com" >
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ivan-mukanov/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:21CBF3&height=150&section=footer&animation=fadeIn" width="100%" />
+</div>
